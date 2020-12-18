@@ -1,1 +1,1 @@
-Hello, this is the Safii's first git project!
+Hello, this is Safii's first git project!
